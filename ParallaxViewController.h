@@ -13,6 +13,7 @@
     float xFI;
 }
 
+
 @property (retain, nonatomic) IBOutlet UIWebView *webView;
 @property (retain, nonatomic) IBOutlet UIImageView *fImage;
 @property (retain, nonatomic) IBOutlet UIImageView *sImage;
