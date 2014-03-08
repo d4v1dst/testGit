@@ -11,6 +11,7 @@
 @interface ParallaxViewController : UIViewController<UIScrollViewDelegate> {
     float was;
     float xFI;
+    int newVariable;
 }
 
 
