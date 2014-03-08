@@ -1,1 +1,1 @@
-Otro archivo de texto
+Otro archivo de texto, el segundo, para el segundo commit
