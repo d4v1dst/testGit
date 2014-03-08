@@ -1,0 +1,2 @@
+Este es un archivito de texto que va a ser usado para crear un repositorio Git.
+- Initial file
