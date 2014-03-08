@@ -3,7 +3,7 @@ that bring the full feature set of the Git SCM to Windows while providing
 appropriate user interfaces for experienced Git users and novices alike.
 Git BASH
 Git for Windows provides a BASH emulation used to run 
-joderrrr!!!!!
+joderrrr!!
 ----otro linea
 --fuuuckkk
 Git from the command line. *NIX users should feel right at home, as the 
