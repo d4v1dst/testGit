@@ -4,5 +4,6 @@ appropriate user interfaces for experienced Git users and novices alike.
 Git BASH
 Git for Windows provides a BASH emulation used to run 
 joderrrr!!!!!
+----otro linea
 Git from the command line. *NIX users should feel right at home, as the 
 BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
