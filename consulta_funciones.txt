@@ -1,0 +1,29 @@
+// para monumentos
+SELECT
+ctl_fichas.folio_unico,
+ctl_fichas.id_ctl_ficha,
+ctl_fichas.`status`,
+prc_detalle_inmueble_federal.registro_federal_inmobiliario
+FROM
+ctl_fichas
+INNER JOIN prc_detalle_inmueble_federal ON ctl_fichas.id_ctl_ficha = prc_detalle_inmueble_federal.id_ctl_ficha
+WHERE
+ctl_fichas.`status` = 'V' AND
+prc_detalle_inmueble_federal.registro_federal_inmobiliario <> ''
+LIMIT 30
+
+
+
+Servidor: vpn.ia.com.mx
+Username:     jcazarez
+Password:      H1D&1faW4
+
+Link de la Bases de Datos
+
+http://demoapi.cinepolis.com.mx/sqlite.aspx?idCiudad=32
+
+QUICKSTART
+Url: https://quickstart.quickmobile.com/index.php/login
+User: juancarlos
+Password: D1g0n0123!
+
